@@ -13,8 +13,10 @@ Sophomore Computer Science student at the Univeristy of Maryland
 
 
 ### Hey!
-I am a CS Major specializing in machine learning and am a Neuroscience and Math Minor. <br>
-I am interested in brain-computer interfacing, as well as scientific computing. Most of my code on my [github](https://github.com/John-Doggett) is scientific computing (aproximations) related. I am taking Networking, Intro to Data Science, and two student-run classes on Ethical Hacking and Cryptocurrency this fall. I am fluent in both C and Java, and quite a bit of math. I am the VP for the Neurotech club at UMD, we are working on the NeruoTechX competition.
+I am a CS Major specializing in machine learning and am a Neuroscience and Math Major. <br>
+I am interested in Systems programming, Machine Learning, as Neurotech. Most of my code on my [github](https://github.com/John-Doggett) is scientific computing (aproximations) related. I am taking Operating Systems, Deeo Learing, and Probability this Spring. I am fluent in C, Python, and Java, and quite a bit of math. I am the VP for the Neurotech club at UMD.
 <br>
 <br>
 I currently work as a sutdnet technician for the University of Maryland Instute for Advanced Computer Studies.
+<br>
+This summer I have a software development intership with Leidos.
