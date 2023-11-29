@@ -4,19 +4,23 @@
 
 </p>
 
-## John Doggett
+**John Doggett** 
+---
 Junior Computer Science and Math student at the Univeristy of Maryland
 <br />
 <br />
 <br />
+<br />
 
 
 
-### Hey!
 I am a CS Major specializing in machine learning, Math Major, Neuroscience Minor, and Computational Finance Minor. Yes, I know that is a lot....<br>
 I am interested in Systems programming, Machine Learning, Financing modeling, and computational research in Neuroscience. 
-Most of my code on my <a href="[url](https://github.com/John-Doggett)">github</a> is numerical stuff, with some scripts. 
-<hr>
+***
+Most of my code on my <a href="https://github.com/John-Doggett">github</a> is numerical stuff, with some scripts. 
+***
+
+
 I am taking Operating Systems, Deeo Learing, and Probability this Spring. I am fluent in C, Python, and Java, and quite a bit of math. I am the VP for the Neurotech club at UMD.
 <br>
 <br>
