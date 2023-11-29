@@ -20,7 +20,7 @@ I am interested in Systems programming, Machine Learning, Financing modeling, an
 Most of my code on my <a href="https://github.com/John-Doggett">github</a> is numerical stuff, with some scripts. 
 <hr>
 <p align="center">
-  <img src="ucl-logo.webp" width="400" height="255">
+  <img src="ucl-logo.png" width="512" height="150">
 </p>
 I am excited to annouce that I will be study abroad at University College London in Spring 2024. I will be studying as a mathematics affiliate students.
 I will be taking Computational Methods, Algebra 4 (abstract algebra for us UMD folk), and Visual Neuroscience.
