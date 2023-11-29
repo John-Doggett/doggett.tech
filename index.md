@@ -22,14 +22,14 @@ Most of my code on my <a href="https://github.com/John-Doggett">github</a> is nu
 <p align="center">
   <img src="ucl-logo.png" width="512" height="150">
 </p>
-I am excited to annouce that I will be study abroad at University College London in Spring 2024. I will be studying as a mathematics affiliate students.
-I will be taking Computational Methods, Algebra 4 (abstract algebra for us UMD folk), and Visual Neuroscience.
+I am excited to annouce that I will be studying abroad at University College London in Spring 2024. I will be studying as a mathematics affiliate student.
+I will be taking Computational Methods, Algebra 4 (abstract algebra), and Visual Neuroscience.
 Of course, I'll be exploring London and the UK and enjoying the culture.
 <hr>
 <p align="center">
   <img src="leidos.png" width="480" height="115">
 </p>
-In Summer 2023 I was a software development intern for Leidos working on FAA's ERAM. I was on the processor services team.<br>
+In Summer 2023 I was a software development intern for Leidos working on the FAA's ERAM. I was on the processor services team.<br>
 I have accepted an offer to return to Leidos as an intern in Summer 2024 to be on a team responsible for the infrastructure (servers) for ERAM.<br>
 This team will have an important part in the technology upgrades the FAA is planning to complete.
 <hr>
