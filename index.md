@@ -4,7 +4,7 @@
 
 </p>
 
-**John Doggett** 
+**Jack Doggett** 
 ---
 Junior Computer Science and Math student at the Univeristy of Maryland
 <br />
@@ -19,11 +19,17 @@ I am interested in Systems programming, Machine Learning, Financing modeling, an
 ***
 Most of my code on my <a href="https://github.com/John-Doggett">github</a> is numerical stuff, with some scripts. 
 ***
+I am excited to annouce that I will be study abroad at University College London in Spring 2024. I will be studying as a mathematics affiliate students.
+I will be taking Computational Methods, Algebra 4 (abstract algebra for us UMD folk), and Visual Neuroscience.
+Of course, I'll be exploring London and the UK and enjoying the culture.
+***
+![Alt text](leidos.png)
 
-
-I am taking Operating Systems, Deeo Learing, and Probability this Spring. I am fluent in C, Python, and Java, and quite a bit of math. I am the VP for the Neurotech club at UMD.
-<br>
-<br>
-I currently work as a sutdnet technician for the University of Maryland Instute for Advanced Computer Studies.
-<br>
-This summer I have a software development intership with Leidos.
+In Summer 2023 I was a software development intern for Leidos working on FAA's ERAM. I was on the processor services team.<br>
+I have accepted an offer to return to Leidos as an intern in Summer 2024 to be on a team responsible for the infrastructure (servers) for ERAM.<br>
+This team will have an important part in the technology upgrades the FAA is planning to complete.
+***
+In my sophomore years I was an undergraduate technician at the University of Maryland Institute for Advanced Computer Students.<br>
+I want to thank everyone there who helped me along the way that year. I learned so much in Linux and SysOps, it's really has changed my view on computing. 
+***
+Connect with me on my <a href="https://www.linkedin.com/in/jack-c-doggett/">LinkedIn</a>.
