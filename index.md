@@ -32,8 +32,8 @@ Of course, I'll be exploring London and the UK and enjoying the culture.
 In Summer 2023 I was a software development intern for Leidos working on FAA's ERAM. I was on the processor services team.<br>
 I have accepted an offer to return to Leidos as an intern in Summer 2024 to be on a team responsible for the infrastructure (servers) for ERAM.<br>
 This team will have an important part in the technology upgrades the FAA is planning to complete.
-***
+<hr>
 In my sophomore years I was an undergraduate technician at the University of Maryland Institute for Advanced Computer Students.<br>
 I want to thank everyone there who helped me along the way that year. I learned so much in Linux and SysOps, it's really has changed my view on computing. 
-***
+<hr>
 Connect with me on my <a href="https://www.linkedin.com/in/jack-c-doggett/">LinkedIn</a>.
